@@ -72,6 +72,7 @@ h1, h2 {
     width: auto;
     max-width: 1200px;
     margin: 0px 5% 0px 5%;
+    align-items: center;
     
 }
 
