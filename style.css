@@ -76,6 +76,10 @@ h1, h2 {
     
 }
 
+#Projects {
+    font-size: large;
+}
+
 .custom-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
