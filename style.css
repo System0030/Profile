@@ -68,9 +68,9 @@ h1, h2 {
 
 
 .gallery-section {
-    padding: 20%;
+    padding: 50px;
     width: auto;
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0px 5% 0px 5%;
     align-items: center;
     
